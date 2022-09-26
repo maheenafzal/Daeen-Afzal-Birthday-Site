@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    background: linear-gradient(#f2e8cf,#faa307)
+}
+#bday-boy{
+    width: 200px;
+    height: 200px;
+    border-radius: 250px;
+    border: 5px solid #b9faf8;
+}
+#boy-age{
+    margin-top: 2px;
+}
+#boy-date{
+    margin-top: -5px;
+}
+
+.gift-photo{
+    width: 390px;
+    height: 390px;
+    border: 7px solid green;
+    border-radius: 7px;
+    background-size: cover;
+    background-image: url("https://www.hdnicewallpapers.com/Walls/Big/Christmas/Images_of_Christmas_Gift_Wrapping_Papper.jpg");
+    margin: 0px auto;
+}
+#gift-wrap:hover{
+    background-image: url(Images/giphy.gif);
+} 
+#gift-hot:hover{
+    background-image: url(Images/Hot.gif);
+}
+#gift-genius:hover{
+    background-image: url(Images/Genius.gif);
+}
+#gift-badass:hover{
+    background-image: url(Images/Badass.gif);
+}
+
+#gift-cheers:hover{
+    background-image: url(Images/Cheers.gif);
+}
+#footer{
+    font-style: italic;
+    width: 400px;
+    margin: 20px auto;
+}
+#maker{
+    font-size: 25px;
+    color: #370617;  
+}
